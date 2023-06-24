@@ -1,6 +1,56 @@
-# Styles Up
+ 
+> 💻 Project Name: ⭐ ====>>>> Styles Up  ✨💫
+> <br>
 
+Description:
 Styles Up - India's Leading Online Shopping Experience, Brought to You by Paytm. Online shopping with Styles Up is quick, convenient and trouble-free. You can shop for the desired product right from the comfort of your home and get them delivered straight to your doorstep.
+
+Contributors:- 
+
+Suraj Singh(Team Leader)
+Hemensan Mahilange
+Rajat 
+Rakesh Kumar
+ 
+---
+
+## 💫Tech-Stack->
+
+- #### For Frontend :-
+
+  - `HTML5`
+  - `CSS3`
+     - `JavaScript `
+  - `ReactJS`
+     - `React`
+     - `Redux`
+     - `ES6 `
+- #### For deploy database :-
+
+  - `render`
+
+- #### For Styling :-
+
+  - `Chakra UI `
+
+- #### For live Project : -
+  - `Vercel`
+
+---
+
+## Features ✨:-
+
+---
+
+| Serial No | Feature                                                                           |
+| --------- | --------------------------------------------------------------------------------- |
+| 1         | User signup, User Login, Admin Login                                              |
+| 2         | Products Page with Filter by different Category, Pagination, Sort Functionalities |
+| 3         | SinglePage & payment feature                                              |
+| 4         | cart page using userId                                                    |
+| 5         | Admin Login & Dashboard Page                                                      |
+
+---
 
 Home Page
 ![Screenshot (177)](https://user-images.githubusercontent.com/112754760/229575461-84775f95-e39e-4f1c-89e1-e9cbfab22a77.png)
